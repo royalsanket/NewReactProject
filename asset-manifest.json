@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NewReactProject/static/css/main.f9106937.css",
+    "main.js": "/NewReactProject/static/js/main.fc9001d1.js",
+    "index.html": "/NewReactProject/index.html",
+    "main.f9106937.css.map": "/NewReactProject/static/css/main.f9106937.css.map",
+    "main.fc9001d1.js.map": "/NewReactProject/static/js/main.fc9001d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9106937.css",
+    "static/js/main.fc9001d1.js"
+  ]
+}
